@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Estudo Desenvolvimento Web Full Stack na Trybe!
+
+Principais Stacks: HTML5 | CSS | JS | React.js | Redux | RTL | JEST |
+
+Metodologias Ágeis: Kanban e Scrum
+
+WhatsApp: (71) 98435-3821
+Email: gupersil04@gmail.com
+
+
 <!--
 **gustavotatu/gustavotatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,8 +1,8 @@
 Olá!
 
-Estudo Desenvolvimento Web Full Stack na Trybe!
+Formado em Desenvolvimento Web Full Stack na Trybe!
 
-Principais Stacks: HTML5 | CSS | JS | React.js | Redux | RTL | JEST |
+Principais Stacks: HTML5 | CSS | JS | Soft Skills | React.js | Redux | Git | TypeScript | Node.js | MySQL
 
 Metodologias Ágeis: Kanban e Scrum
 
